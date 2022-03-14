@@ -1,0 +1,40 @@
+body{
+	color:green;
+}
+
+
+a{
+	color:red;
+}
+
+p {
+	border: 1 px solid green;
+}
+
+.box {
+	border: 1px solid black;
+	width: 40%;
+	margin: 5px;
+	padding: 10px;
+	vertical-align: top;
+}
+
+.box_container {
+	background-color: antiquewhite;
+}
+
+.box_container_row {
+	display: flex;
+	background-color: aquamarine;
+	border: 1px solid red;
+	flex-direction: ;
+	justify-content: space-around;
+}
+
+.box {
+	background-color: burlywood;
+}
+
+
+
+
